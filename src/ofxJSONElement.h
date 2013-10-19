@@ -15,7 +15,7 @@
 
 
 #include <string>
-#include <json/json.h>
+#include "json.h"
 #include "ofLog.h"
 #include "ofURLFileLoader.h"
 
